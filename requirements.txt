@@ -2,6 +2,6 @@ pandas==1.5.3
 numpy==1.24.3
 streamlit==1.19.0
 pickle5==0.0.11
-pycaret==2.3.0
+pycaret==3.0.0
 scikit-learn==1.2.2
 python==3.12
